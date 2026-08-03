@@ -32,11 +32,15 @@ All DeepBERTa models and fragment prediction models are available in HuggingFace
 If you use DeepBERTa or any models derived from it in your research, please cite:
 
 ```
-@article{kothari2026transformer,
-  title={Transformer-Based Molecular Fragment Prediction Using SMILES and DeepSMILES Representations in Fragment-Based Drug Discovery},
-  author={Kothari, Aayush and Gupta, Amish and Shah, Nisarg and Reed, Thomas and Nattuva, Anvita and Nazirudeen, Rahima and Brah, Harman and Akl, Marx},
-  year={2026}
+@article{Kothari2026DeepBERTa,
+  author  = {Kothari, Aayush and Gupta, Amish and Shah, Nisarg and Reed, Thomas and Nattuva, Anvita and Nazirudeen, Rahima and Brah, Harman and Akl, Marx},
+  title   = {Transformer-based molecular fragment prediction using {SMILES} and {DeepSMILES} representations in a fragment-based drug discovery pipeline},
+  journal = {Journal of Cheminformatics},
+  year    = {2026},
+  doi     = {10.1186/s13321-026-01255-w},
+  url     = {https://doi.org/10.1186/s13321-026-01255-w},
+  note    = {Article in press}
 }
 ```
 
-Paper: https://www.researchsquare.com/article/rs-9614513/v1
+Paper: https://rdcu.be/fxGbk
