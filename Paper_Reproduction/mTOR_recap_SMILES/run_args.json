@@ -1,0 +1,8 @@
+{
+  "num_epochs": 21,
+  "batch_size": 8,
+  "max_length": 128,
+  "seq_penalty": 0.7070402560084605,
+  "invalid_smiles_penalty": 5.086437387396555,
+  "time": "25-11-30-17-34-19"
+}
